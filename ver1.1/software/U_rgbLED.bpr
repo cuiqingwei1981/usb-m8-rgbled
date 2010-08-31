@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!-- C++Builder XML Project -->
+<PROJECT>
+  <MACROS>
+    <VERSION value="BCB.06.00"/>
+    <PROJECT value="!Release\U_rgbLED.exe"/>
+    <OBJFILES value="_obj\U_rgbLED.obj _obj\UsbCfg.obj _obj\Main.obj"/>
+    <RESFILES value="U_rgbLED.res"/>
+    <IDLFILES value=""/>
+    <IDLGENFILES value=""/>
+    <DEFFILE value=""/>
+    <RESDEPEN value="$(RESFILES) Main.dfm"/>
+    <LIBFILES value="libusb.lib"/>
+    <LIBRARIES value="AAFont_BCB6.lib Iocomp65.lib rtl.lib vcl.lib"/>
+    <SPARELIBS value="vcl.lib rtl.lib Iocomp65.lib AAFont_BCB6.lib"/>
+    <PACKAGES value="vcl.bpi rtl.bpi dbrtl.bpi adortl.bpi vcldb.bpi vclx.bpi bdertl.bpi 
+      vcldbx.bpi ibxpress.bpi dsnap.bpi cds.bpi bdecds.bpi qrpt.bpi teeui.bpi 
+      teedb.bpi tee.bpi dss.bpi teeqr.bpi visualclx.bpi visualdbclx.bpi 
+      dsnapcrba.bpi dsnapcon.bpi bcbsmp.bpi vclie.bpi xmlrtl.bpi inet.bpi 
+      inetdbbde.bpi inetdbxpress.bpi inetdb.bpi nmfast.bpi webdsnap.bpi 
+      bcbie.bpi websnap.bpi soaprtl.bpi dclocx.bpi dbexpress.bpi dbxcds.bpi 
+      indy.bpi bcb2kaxserver.bpi WinSkinC6.bpi Iocomp65.bpi 
+      LovelyComponentsBCB6.bpi dclusr.bpi"/>
+    <PATHCPP value=".;"/>
+    <PATHPAS value=".;"/>
+    <PATHRC value=".;"/>
+    <PATHASM value=".;"/>
+    <DEBUGLIBPATH value="$(BCB)\lib\debug"/>
+    <RELEASELIBPATH value="$(BCB)\lib\release"/>
+    <LINKER value="ilink32"/>
+    <USERDEFINES value=""/>
+    <SYSDEFINES value="NO_STRICT"/>
+    <MAINSOURCE value="U_rgbLED.cpp"/>
+    <INCLUDEPATH value="D:\Borland\AAFont;D:\Borland\iocomp;Unit;D:\Borland\CBuilder6\Projects;$(BCB)\include;$(BCB)\include\vcl"/>
+    <LIBPATH value="D:\Borland\AAFont;D:\Borland\iocomp;Unit;D:\Borland\CBuilder6\Projects;$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib"/>
+    <WARNINGS value="-w-par"/>
+    <OTHERFILES value=""/>
+  </MACROS>
+  <OPTIONS>
+    <IDLCFLAGS value="-ID:\Borland\AAFont -ID:\Borland\iocomp -IUnit 
+      -ID:\Borland\CBuilder6\Projects -I$(BCB)\include -I$(BCB)\include\vcl 
+      -src_suffix cpp -boa"/>
+    <CFLAG1 value="-O2 -H=$(BCB)\lib\vcl60.csm -Hc -Vx -Ve -X- -a8 -b- -k- -vi -c -tW -tWM"/>
+    <PFLAGS value="-N2_obj -N0_obj -$Y- -$L- -$D- -$A8 -v -JPHNE -M"/>
+    <RFLAGS value=""/>
+    <AFLAGS value="/mx /w2 /zn"/>
+    <LFLAGS value="-I_obj -D&quot;&quot; -aa -Tpe -x -Gn"/>
+    <OTHERFILES value=""/>
+  </OPTIONS>
+  <LINKER>
+    <ALLOBJ value="c0w32.obj sysinit.obj $(OBJFILES)"/>
+    <ALLRES value="$(RESFILES)"/>
+    <ALLLIB value="$(LIBFILES) $(LIBRARIES) import32.lib cp32mt.lib"/>
+    <OTHERFILES value=""/>
+  </LINKER>
+  <FILELIST>
+      <FILE FILENAME="U_rgbLED.res" FORMNAME="" UNITNAME="U_rgbLED.res" CONTAINERID="ResTool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="U_rgbLED.cpp" FORMNAME="" UNITNAME="U_rgbLED" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="UsbCfg.cpp" FORMNAME="" UNITNAME="UsbCfg" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="usb.h" FORMNAME="" UNITNAME="usb.h" CONTAINERID="" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="libusb.lib" FORMNAME="" UNITNAME="libusb.lib" CONTAINERID="LibTool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Main.cpp" FORMNAME="mForm" UNITNAME="Main" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+  </FILELIST>
+  <BUILDTOOLS>
+  </BUILDTOOLS>
+
+  <IDEOPTIONS>
+[Version Info]
+IncludeVerInfo=0
+AutoIncBuild=0
+MajorVer=1
+MinorVer=0
+Release=0
+Build=0
+Debug=0
+PreRelease=0
+Special=0
+Private=0
+DLL=0
+Locale=2052
+CodePage=936
+
+[Version Info Keys]
+CompanyName=
+FileDescription=
+FileVersion=1.0.0.0
+InternalName=
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=
+ProductName=
+ProductVersion=1.0.0.0
+Comments=
+
+[HistoryLists\hlIncludePath]
+Count=6
+Item0=D:\Borland\AAFont;D:\Borland\iocomp;Unit;D:\Borland\CBuilder6\Projects;$(BCB)\include;$(BCB)\include\vcl
+Item1=Unit;D:\Borland\CBuilder6\Projects;$(BCB)\include;$(BCB)\include\vcl
+Item2=Unit;D:\Borland\CBuilder6\Projects;E:\XcProducts\U-rgbLED\software\Usbdrv;$(BCB)\include;$(BCB)\include\vcl
+Item3=Unit;D:\Borland\CBuilder6\Projects;E:\XcProducts\U-rgbLED\software\Unit;E:\XcProducts\U-rgbLED\software\Usbdrv;$(BCB)\include;$(BCB)\include\vcl
+Item4=Unit;D:\Borland\CBuilder6\Projects;E:\XcProducts\U-rgbLED\software\Unit;$(BCB)\include;$(BCB)\include\vcl
+Item5=E:\XcProducts\U-rgbLED\software\Unit;$(BCB)\include;$(BCB)\include\vcl
+
+[HistoryLists\hlLibraryPath]
+Count=5
+Item0=D:\Borland\AAFont;D:\Borland\iocomp;Unit;D:\Borland\CBuilder6\Projects;$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib
+Item1=Unit;D:\Borland\CBuilder6\Projects;$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib
+Item2=Unit;D:\Borland\CBuilder6\Projects;$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib;E:\XcProducts\U-rgbLED\software\Usbdrv
+Item3=Unit;D:\Borland\CBuilder6\Projects;E:\XcProducts\U-rgbLED\software\Unit;$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib
+Item4=E:\XcProducts\U-rgbLED\software\Unit;$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib
+
+[HistoryLists\hlDebugSourcePath]
+Count=1
+Item0=$(BCB)\source\vcl
+
+[HistoryLists\hlConditionals]
+Count=1
+Item0=_DEBUG
+
+[HistoryLists\hlIntOutputDir]
+Count=1
+Item0=_obj
+
+[HistoryLists\hlFinalOutputDir]
+Count=2
+Item0=!Release\
+Item1=!Release
+
+[Debugging]
+DebugSourceDirs=$(BCB)\source\vcl
+
+[Parameters]
+RunParams=
+Launcher=
+UseLauncher=0
+DebugCWD=
+HostApplication=
+RemoteHost=
+RemotePath=
+RemoteLauncher=
+RemoteCWD=
+RemoteDebug=0
+
+[Compiler]
+ShowInfoMsgs=0
+LinkDebugVcl=0
+LinkCGLIB=0
+
+[CORBA]
+AddServerUnit=1
+AddClientUnit=1
+PrecompiledHeaders=1
+
+[Language]
+ActiveLang=
+ProjectLang=
+RootDir=
+  </IDEOPTIONS>
+</PROJECT>

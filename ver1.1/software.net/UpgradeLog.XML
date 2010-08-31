@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="UsbHid">
+</Property><Property Name="解决方案文件" Value="C:\Documents and Settings\cuiqingwei\Desktop\usb_hid\usb_hid\UsbHid.sln">
+</Property><Property Name="Date" Value="2009年8月20日">
+</Property><Property Name="Time" Value="17:35">
+</Property></Properties><Event ErrorLevel="0" Project="UsbLibrary" Source="UsbLibrary\UsbLibrary.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="UsbLibrary" Source="UsbLibrary\UsbLibrary.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="UsbApp" Source="UsbApp\UsbApp.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="UsbApp" Source="UsbApp\UsbApp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="UsbHid.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="UsbHid.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="UsbLibrary" Source="UsbLibrary\UsbLibrary.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="UsbApp" Source="UsbApp\UsbApp.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

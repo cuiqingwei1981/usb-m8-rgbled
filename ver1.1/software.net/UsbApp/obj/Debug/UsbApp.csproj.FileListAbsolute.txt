@@ -1,0 +1,33 @@
+C:\Documents and Settings\cuiqingwei\Desktop\usb_hid\usb_hid\UsbApp\bin\Debug\UsbApp.exe
+C:\Documents and Settings\cuiqingwei\Desktop\usb_hid\usb_hid\UsbApp\bin\Debug\UsbApp.pdb
+C:\Documents and Settings\cuiqingwei\Desktop\usb_hid\usb_hid\UsbApp\bin\Debug\UsbLibrary.dll
+C:\Documents and Settings\cuiqingwei\Desktop\usb_hid\usb_hid\UsbApp\bin\Debug\UsbLibrary.pdb
+C:\Documents and Settings\cuiqingwei\Desktop\usb_hid\usb_hid\UsbApp\bin\Debug\UsbLibrary.xml
+C:\Documents and Settings\cuiqingwei\Desktop\usb_hid\usb_hid\UsbApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cuiqingwei\Desktop\usb_hid\usb_hid\UsbApp\obj\Debug\UsbApp.Properties.Resources.resources
+C:\Documents and Settings\cuiqingwei\Desktop\usb_hid\usb_hid\UsbApp\obj\Debug\UsbApp.Sniffer.resources
+C:\Documents and Settings\cuiqingwei\Desktop\usb_hid\usb_hid\UsbApp\obj\Debug\UsbApp.csproj.GenerateResource.Cache
+C:\Documents and Settings\cuiqingwei\Desktop\usb_hid\usb_hid\UsbApp\obj\Debug\UsbApp.exe
+C:\Documents and Settings\cuiqingwei\Desktop\usb_hid\usb_hid\UsbApp\obj\Debug\UsbApp.pdb
+E:\XcProducts\Universal Remote Control with M8\software\UsbApp\obj\Debug\UsbApp.exe
+E:\XcProducts\Universal Remote Control with M8\software\UsbApp\obj\Debug\UsbApp.pdb
+E:\XcProducts\Universal Remote Control with M8\software\UsbApp\bin\Debug\UsbApp.exe
+E:\XcProducts\Universal Remote Control with M8\software\UsbApp\bin\Debug\UsbApp.pdb
+E:\XcProducts\Universal Remote Control with M8\software\UsbApp\bin\Debug\UsbLibrary.dll
+E:\XcProducts\Universal Remote Control with M8\software\UsbApp\bin\Debug\UsbLibrary.pdb
+E:\XcProducts\Universal Remote Control with M8\software\UsbApp\bin\Debug\UsbLibrary.xml
+E:\XcProducts\Universal Remote Control with M8\software\UsbApp\obj\Debug\ResolveAssemblyReference.cache
+E:\XcProducts\Universal Remote Control with M8\software\UsbApp\obj\Debug\UsbApp.Properties.Resources.resources
+E:\XcProducts\Universal Remote Control with M8\software\UsbApp\obj\Debug\UsbApp.Sniffer.resources
+E:\XcProducts\Universal Remote Control with M8\software\UsbApp\obj\Debug\UsbApp.csproj.GenerateResource.Cache
+E:\XcProducts\U-rgbLED\ver1.1\software\UsbApp\obj\Debug\UsbApp.exe
+E:\XcProducts\U-rgbLED\ver1.1\software\UsbApp\obj\Debug\UsbApp.pdb
+E:\XcProducts\U-rgbLED\ver1.1\software\UsbApp\bin\Debug\UsbApp.exe
+E:\XcProducts\U-rgbLED\ver1.1\software\UsbApp\bin\Debug\UsbApp.pdb
+E:\XcProducts\U-rgbLED\ver1.1\software\UsbApp\bin\Debug\UsbLibrary.dll
+E:\XcProducts\U-rgbLED\ver1.1\software\UsbApp\bin\Debug\UsbLibrary.pdb
+E:\XcProducts\U-rgbLED\ver1.1\software\UsbApp\bin\Debug\UsbLibrary.xml
+E:\XcProducts\U-rgbLED\ver1.1\software\UsbApp\obj\Debug\ResolveAssemblyReference.cache
+E:\XcProducts\U-rgbLED\ver1.1\software\UsbApp\obj\Debug\UsbApp.Properties.Resources.resources
+E:\XcProducts\U-rgbLED\ver1.1\software\UsbApp\obj\Debug\UsbApp.Sniffer.resources
+E:\XcProducts\U-rgbLED\ver1.1\software\UsbApp\obj\Debug\UsbApp.csproj.GenerateResource.Cache
