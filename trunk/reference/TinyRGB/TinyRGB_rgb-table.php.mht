@@ -1,0 +1,32 @@
+thread-index: AchDnFL9LIWAk5f7Tl6L2vG4PekSkQ==
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0002_01C843DF.61EEB120"
+Content-Location: http://www.avrportal.com/TinyRGB/rgb-table.php
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.3028
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0002_01C843DF.61EEB120
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 7bit
+
+000	001	002	003	010	011	012	013	020
+021	022	023	030	031	032	033	
+100	101	102	103	110	111	112	113	120
+121	122	123	130	131	132	133	
+200	201	202	203	210	211	212	213	220
+221	222	223	230	231	232	233	
+300	301	302	303	310	311	312	313	320
+321	322	323	330	331	332	333	
+
+------=_NextPart_000_0002_01C843DF.61EEB120
+Content-Type: text/html
+Content-Transfer-Encoding: 7bit
+
+<table><tr><td bgcolor="#000000">000</td><td bgcolor="#000055">001</td><td bgcolor="#0000AA">002</td><td bgcolor="#0000FF">003</td><td bgcolor="#005500">010</td><td bgcolor="#005555">011</td><td bgcolor="#0055AA">012</td><td bgcolor="#0055FF">013</td><td bgcolor="#00AA00">020</td><td bgcolor="#00AA55">021</td><td bgcolor="#00AAAA">022</td><td bgcolor="#00AAFF">023</td><td bgcolor="#00FF00">030</td><td bgcolor="#00FF55">031</td><td bgcolor="#00FFAA">032</td><td bgcolor="#00FFFF">033</td></tr><tr><td bgcolor="#550000">100</td><td bgcolor="#550055">101</td><td bgcolor="#5500AA">102</td><td bgcolor="#5500FF">103</td><td bgcolor="#555500">110</td><td bgcolor="#555555">111</td><td bgcolor="#5555AA">112</td><td bgcolor="#5555FF">113</td><td bgcolor="#55AA00">120</td><td bgcolor="#55AA55">121</td><td bgcolor="#55AAAA">122</td><td bgcolor="#55AAFF">123</td><td bgcolor="#55FF00">130</td><td bgcolor="#55FF55">131</td><td bgcolor="#55FFAA">132</td><td bgcolor="#55FFFF">133</td></tr><tr><td bgcolor="#AA0000">200</td><td bgcolor="#AA0055">201</td><td bgcolor="#AA00AA">202</td><td bgcolor="#AA00FF">203</td><td bgcolor="#AA5500">210</td><td bgcolor="#AA5555">211</td><td bgcolor="#AA55AA">212</td><td bgcolor="#AA55FF">213</td><td bgcolor="#AAAA00">220</td><td bgcolor="#AAAA55">221</td><td bgcolor="#AAAAAA">222</td><td bgcolor="#AAAAFF">223</td><td bgcolor="#AAFF00">230</td><td bgcolor="#AAFF55">231</td><td bgcolor="#AAFFAA">232</td><td bgcolor="#AAFFFF">233</td></tr><tr><td bgcolor="#FF0000">300</td><td bgcolor="#FF0055">301</td><td bgcolor="#FF00AA">302</td><td bgcolor="#FF00FF">303</td><td bgcolor="#FF5500">310</td><td bgcolor="#FF5555">311</td><td bgcolor="#FF55AA">312</td><td bgcolor="#FF55FF">313</td><td bgcolor="#FFAA00">320</td><td bgcolor="#FFAA55">321</td><td bgcolor="#FFAAAA">322</td><td bgcolor="#FFAAFF">323</td><td bgcolor="#FFFF00">330</td><td bgcolor="#FFFF55">331</td><td bgcolor="#FFFFAA">332</td><td bgcolor="#FFFFFF">333</td></tr></table
+------=_NextPart_000_0002_01C843DF.61EEB120--
